@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎵 ⚽ Parc L'opera - Premium Entertainment Complex & Restaurant
 
-# Run and deploy your AI Studio app
+A modern, sleek, and fully responsive landing page developed specifically for the **Parc L'opera** complex. This website is designed to showcase the multi-purpose services offered by the venue, blending gourmet dining, live musical entertainment, and sports facilities into a seamless digital experience.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/097bf3f2-3ea2-4741-a5f7-1cc5cdc21893
+## 🚀 Key Features
+- **Fully Responsive Design:** Perfectly optimized for all devices, including smartphones, tablets, and desktops.
+- **Custom Visual Identity:** Developed with an elegant dark theme that reflects the premium lounge and nightlife atmosphere, combined with warm orange accents for the culinary sections.
+- **Comprehensive Services Showcase:** Clear and organized sections highlighting the 4 core pillars of the complex (Restaurant & Café, Live Music & Events, Football & Tennis Sports Facilities, and Kids' Animations).
+- **Interactive Call-to-Actions (CTA):** Integrated direct click-to-call buttons allowing users to easily reserve tables or book sports courts straight from their mobile devices.
+- **RTL Language Support:** The user interface is fully optimized for Arabic (Right-to-Left) typography and layout flow.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 📂 Project Structure
+- `index.html` - The main HTML file containing the fully structured layout of the website.
+- `src/` - Directory containing source files and core development codes.
+- `assets/` - Dedicated folder for storing localized media, icons, and brand logos.
+- `package.json` & `metadata.json` - Configuration and metadata files managing the project environments.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+- **HTML5:** For building a semantic, clean, and SEO-friendly web structure.
+- **Tailwind CSS:** Utilized for rapid utility-first styling to ensure a modern, smooth UI/UX with responsive configurations.
+
+---
+
+## 💻 How to Run the Project
+1. Clone or download this repository to your local machine.
+2. Open the `index.html` file directly in any modern web browser (Google Chrome, Safari, Microsoft Edge).
+3. To customize contents, images, or contact numbers, open the codebase using a code editor (such as VS Code).
+
+---
+
+💻 **Designed and Developed by [Your Name Here]**
+
