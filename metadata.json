@@ -1,0 +1,6 @@
+{
+  "name": "Parc L'opera",
+  "description": "Multi-purpose family complex, restaurant, sports courts, and entertainment lounge in an elegant RTL layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
