@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", system-ui, -apple-system, sans-serif;
+  --font-display: "Playfair Display", serif;
+  
+  --color-brand-orange: #e67e22;
+  --color-brand-gold: #d4af37;
+  --color-brand-sport-green: #2ecc71;
+  --color-brand-sport-blue: #3498db;
+}
+
+@layer utilities {
+  .rtl-flip {
+    transform: scaleX(-1);
+  }
+}
